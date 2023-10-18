@@ -1,3 +1,5 @@
+##### JavaScript
+##### Golang
 ##### Java
 OpenSource Framework:Spring boot|Mybatis
 ##### Database
@@ -10,3 +12,7 @@ NLP algorithms:text classification, entity recognition, sentiment analysis, text
 Big Data:  
 &emsp;open-source tools:Hadoop, Hive, HBase,YARN, Spark, Flink
 &emsp;BI tools:Tableau and FineReport for data analysis.
+##### Python
+##### JavaScript
+##### Golang
+##### BI PowerBI
