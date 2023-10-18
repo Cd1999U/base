@@ -4,7 +4,7 @@ Set up
 ### Orientaions:
 ###### Software Development:  
 Front-End:--client side  
-&ensp;&ensp;Framework:React\Vue  
+&ensp;&ensp;Framework:React\Vue  UI:Element-UI|Vant-UI  
 Back-End:  
 &ensp;&ensp;PL:Java, Python, Ruby, or PHP;  
 &emsp;frameworks:Node.js, Django, Ruby on Rails, or Laravel.   
@@ -27,3 +27,9 @@ distributed processing frameworks:Spark and MapReduce<br>
 ###### Human-Computer Interaction and User Experience
 ###### Internet of Things (IoT)
 ###### VR&AR
+
+
+
+
+Automation build tool:Jenkins
+Packaging tool plugins:Webpack or Vite
