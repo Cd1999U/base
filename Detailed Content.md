@@ -13,6 +13,7 @@ Big Data:
 &emsp;open-source tools:Hadoop, Hive, HBase,YARN, Spark, Flink
 &emsp;BI tools:Tableau and FineReport for data analysis.
 ##### Python
+  &emsp;Spider
 ##### JavaScript
 ##### Golang
 ##### BI PowerBI
