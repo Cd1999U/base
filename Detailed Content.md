@@ -7,7 +7,7 @@ monitoring platforms:Zabbix and Prometheus,
 Performance Optimization
 ###  AI-BIG DatA Routine
 Transformers, Diffusion, RNNs, CNNs  
-Deep learning framework: PyTorch, TensorFlow, or Keras  
+Deep learning framework: ***PyTorch, TensorFlow***, or Keras  
 NLP algorithms:text classification, entity recognition, sentiment analysis, text summarization, etc  
 Big Data:  
 &emsp;open-source tools:Hadoop-[Hive, HBase|Mapreduce,Hdfs],YARN, Spark, Flink
